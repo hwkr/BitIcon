@@ -4,7 +4,7 @@ A simple glyph font with programming language icons.
 
 ## Usage
 
-Download the latest and files out of `font` for use on your website. Once you have the css referenced apply the bitIcon class for your icon to an `<i>` tag.
+Download the [latest release](https://github.com/bitHero/bitIcon/releases/latest)  for use on your website. Once you have the css referenced apply the bitIcon class for your icon to an `<i>` tag.
 
 ```
 <i class="bitIcon-cs"></i>
