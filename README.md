@@ -1,4 +1,4 @@
-![bitIcon Preview](https://www.dropbox.com/s/5n0wt599jto4mtz/bitIcon-preview.svg?dl=1)
+![bitIcon Preview](https://cdn.rawgit.com/bitHero/bitIcon/fa0647acbdeb272a6533e1b60aea4d0ab95d79f4/src/bitIcon-preview.svg)
 
 A simple glyph font with programming language icons.
 
